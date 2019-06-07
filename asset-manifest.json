@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/workshop-omnistack-frontend/static/css/main.b9d3997c.chunk.css",
+    "main.js": "/workshop-omnistack-frontend/static/js/main.f0ebe8f8.chunk.js",
+    "main.js.map": "/workshop-omnistack-frontend/static/js/main.f0ebe8f8.chunk.js.map",
+    "runtime~main.js": "/workshop-omnistack-frontend/static/js/runtime~main.3f748d3a.js",
+    "runtime~main.js.map": "/workshop-omnistack-frontend/static/js/runtime~main.3f748d3a.js.map",
+    "static/js/2.e3379c23.chunk.js": "/workshop-omnistack-frontend/static/js/2.e3379c23.chunk.js",
+    "static/js/2.e3379c23.chunk.js.map": "/workshop-omnistack-frontend/static/js/2.e3379c23.chunk.js.map",
+    "index.html": "/workshop-omnistack-frontend/index.html",
+    "precache-manifest.e5f85c8168734eec11fe0f858bab7191.js": "/workshop-omnistack-frontend/precache-manifest.e5f85c8168734eec11fe0f858bab7191.js",
+    "service-worker.js": "/workshop-omnistack-frontend/service-worker.js",
+    "static/css/main.b9d3997c.chunk.css.map": "/workshop-omnistack-frontend/static/css/main.b9d3997c.chunk.css.map"
+  }
+}
